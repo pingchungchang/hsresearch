@@ -1,0 +1,8 @@
+prefix=/home/pcc/catkin_autorace/devel
+
+Name: turtlebot3_autorace_msgs
+Description: Description of turtlebot3_autorace_msgs
+Version: 1.1.1
+Cflags: -I/home/pcc/catkin_autorace/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

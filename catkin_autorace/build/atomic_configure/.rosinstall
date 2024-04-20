@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pcc/catkin_autorace/devel/setup.sh

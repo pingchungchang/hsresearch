@@ -1,0 +1,8 @@
+prefix=/home/pcc/catkin_autorace/devel
+
+Name: turtlebot3_autorace_camera
+Description: Description of turtlebot3_autorace_camera
+Version: 1.1.1
+Cflags: -I/home/pcc/catkin_autorace/devel/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure
